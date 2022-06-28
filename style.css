@@ -75,14 +75,13 @@
     flex-direction:column;
     justify-content:center;
     text-align: center;
-    padding:32px;
     margin-bottom:16px;
+    height:400px;
 }
 .section-1>h1{
     font-size:36px;
     font-weight:bolder;
     color:#1F2937;
-    margin-top:32px;
     margin-bottom:32px;
 }
 .card-container{
@@ -106,7 +105,7 @@
     justify-content: center;
     align-items:center;
     background-color:#E5E7EB;
-    padding:48px;
+    height:400px;
 }
 .section-2-container{
     width:800px;
@@ -132,7 +131,7 @@
     display:flex;
     justify-content: center;
     align-items:center;
-    height:300px;
+    height:400px;
 }
 .call-flex{
     display:flex;
