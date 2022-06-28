@@ -53,7 +53,7 @@
 .sign-up-button{
     color:#F9FAF8;
     background-color:#3882F6;
-    padding:8px;
+    padding:8px 16px;
     border-radius:8px;
     border:0;
     cursor:pointer;
@@ -126,4 +126,35 @@
 }
 .section-2-container>h2{
     align-self:flex-end;
+}
+
+.section-3{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    height:300px;
+}
+.call-flex{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    width:600px;
+}
+.call-card{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#3882F6;
+    padding:32px;
+    width:800px;
+    border-radius:12px;
+    color:#F9FAF8;
+}.sign-up-button-2{
+    border:1px solid #F9FAF8;
+    color:#F9FAF8;
+    font-size:12px;
+    font-weight:bold;
+    background-color: #3882F6;
+    padding:8px 16px;
+    border-radius:8px;
 }
